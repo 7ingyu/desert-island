@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+
+body {
+  background-color: grey;
+  font-family: 'Island Moments', sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.img-parent {
+  text-align: center;
+}
+
+.fave-food {
+  display: block;
+  width: 400px;
+  margin: auto;
+}
+
+.lists {
+  display: inline-block;
+  width: 49%;
+}
+
+p {
+  text-align: justify;
+}
